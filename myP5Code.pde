@@ -11,7 +11,16 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+  fill(101, 72, 52)
+ellipse(200,200,300,350)
+fill(231,206,150,)
+ellipse(200,210,220,240)
+fill(132, 86, 60,)
+triangle(155,122,188,120,175,145)
+triangle(199,121,216,121,197,142)
+triangle(120,162,142,162,130,175)
+triangle(150,166,164,166,156,181)
+
 
   
 

@@ -13,13 +13,18 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  fill(0,0,128)
  ellipse(199,318,280,100)
+// bowl
  fill(66, 28, 82)
  ellipse(87,161,80,80)
  ellipse(160,184,80,80)
  ellipse(152,258,80,80)
  ellipse(79,228,80,80)
+ 
+ //stem
  fill(0,200,0)
 triangle(282,85,310,85,290,110)
+
+///grapes
 fill(66,28,82)
 ellipse(278,123,60,60)
 ellipse(224,156,80,80)
